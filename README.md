@@ -1,5 +1,5 @@
 # openimis_node_openhim_claimresponse_mediator
-This is a openHIM mediator that is used to transfer Claim from openIMIS to insurance companies
+This is a openHIM mediator that is used to transfer Claims from openIMIS to insurance companies
 
 ## Setup
 This mediator requires a successfull installation of openhim-console and openhim-core-js.whose installation guide can be found in  <https://github.com/jembi/openhim-console> and  <https://github.com/jembi/openhim-core-js> respectfully
