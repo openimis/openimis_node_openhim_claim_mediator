@@ -1,5 +1,5 @@
 {
-  "name": "claim Mediator",
+  "name": "claim-mediator",
   "version": "1.0.0",
   "description": "Claims Mediator",
   "main": "index.js",
