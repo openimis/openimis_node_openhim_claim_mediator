@@ -2,7 +2,7 @@
 {
     "urn": "FHIR 4 Claim Mediator",
     "version": "1.0.0",
-    "name": "Fhir 4  laim Mediator",
+    "name": "Fhir 4  Claim Mediator",
     "description": "Fhir 4  Claim mediator",
     "defaultChannelConfig": [
       {
