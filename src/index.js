@@ -21,7 +21,7 @@ router.get('/',(ctx, next) => {
     ctx.body=response
     next();
   })
-   let sendValuatedClaims=function(data){
+  let sendValuatedClaims=function(data){
     return  request({
       url:process.env.SOSYS_URL,
       method: 'POST',
