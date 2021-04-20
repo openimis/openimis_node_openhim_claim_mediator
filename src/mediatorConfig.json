@@ -6,7 +6,7 @@
     "description": "Fhir 4  Claim mediator",
     "defaultChannelConfig": [
       {
-        "name": "Valuated claim mediator",
+        "name": "Claim mediator",
         "urlPattern": "^/Claims",
         "routes": [
           {
